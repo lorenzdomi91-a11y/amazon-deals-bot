@@ -1,0 +1,36 @@
+name: Aggiorna offerte Amazon
+
+on:
+  schedule:
+    # Ogni ora, al minuto 0 (orario UTC)
+    - cron: "0 * * * *"
+  workflow_dispatch: {} # permette di lanciarlo manualmente da GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update-offers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installa dipendenze
+        run: pip install -r scraper/requirements.txt
+
+      - name: Esegui scraper
+        run: python scraper/scrape_amazon.py
+
+      - name: Commit e push del file offerte.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add offerte.json
+          git diff --staged --quiet || git commit -m "Aggiorna offerte.json [automatico]"
+          git push
