@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "asin": "B09XN4VKTY",
+    "title": "Dr. Beckmann Super Bianco | Rimuove l'ingrigimento | Combatte l'ingiallimento | Rende la biancheria bianca più bianca | 5 x 40 g",
+    "url": "https://www.amazon.it/dp/B09XN4VKTY",
+    "image": "https://m.media-amazon.com/images/I/819UtH6MbwL._AC_UL320_.jpg",
+    "price": 4.28,
+    "old_price": 21.4,
+    "discount_percent": 80,
+    "currency": "EUR",
+    "category": "offerte casa",
+    "updated_at": "2026-08-08T16:49:04.708122+00:00"
+  },
+  {
+    "asin": "B09GSBHPTL",
+    "title": "Chanteclair - Cura Lavatrice Igienizzante, Extra Freschezza, Elimina Sporco, Calcare e Cattivi Odori - 250 ml | rimuove i cattivi odori, elimina sporco e calcare, efficace anche a basse temperature",
+    "url": "https://www.amazon.it/dp/B09GSBHPTL",
+    "image": "https://m.media-amazon.com/images/I/815BogIigwL._AC_UL320_.jpg",
+    "price": 3.28,
+    "old_price": 13.12,
+    "discount_percent": 75,
+    "currency": "EUR",
+    "category": "offerte casa",
+    "updated_at": "2026-08-08T16:49:04.703982+00:00"
+  },
+  {
+    "asin": "B0B59Q2B1X",
+    "title": "Chanteclair Millemacchie Extra Power, Smacchiatore Contro le Macchie più Frequenti, 500ml | contro le macchie frequenti, efficace anche a freddo dal 1° lavaggio",
+    "url": "https://www.amazon.it/dp/B0B59Q2B1X",
+    "image": "https://m.media-amazon.com/images/I/61eAqhLvXHL._AC_UL320_.jpg",
+    "price": 2.54,
+    "old_price": 5.08,
+    "discount_percent": 50,
+    "currency": "EUR",
+    "category": "offerte casa",
+    "updated_at": "2026-08-08T16:49:04.701088+00:00"
+  },
+  {
+    "asin": "B08GQ7NJDM",
+    "title": "douceur d'intérieur, Dispenser Sapone (Diametro 7 x 18 cm) Marmo, Ceramica Stampata",
+    "url": "https://www.amazon.it/dp/B08GQ7NJDM",
+    "image": "https://m.media-amazon.com/images/I/61XmReuuq7L._AC_UL320_.jpg",
+    "price": 5.99,
+    "old_price": 8.99,
+    "discount_percent": 33,
+    "currency": "EUR",
+    "category": "offerte casa",
+    "updated_at": "2026-08-08T16:49:04.709652+00:00"
+  },
+  {
+    "asin": "B0CJCNBQ95",
+    "title": "Quasar - Cucina Superfici Delicate 680ml | senza aloni, sgrassante, protettivo, anche per piani a induzione, laminati, marmi e quarzi, con scudp antisporco",
+    "url": "https://www.amazon.it/dp/B0CJCNBQ95",
+    "image": "https://m.media-amazon.com/images/I/51Cpm6Z7nCL._AC_UL320_.jpg",
+    "price": 3.32,
+    "old_price": 4.88,
+    "discount_percent": 32,
+    "currency": "EUR",
+    "category": "offerte casa",
+    "updated_at": "2026-08-08T16:49:04.705160+00:00"
+  },
+  {
+    "asin": "B0CJCNWW13",
+    "title": "Quasar - Doccia Vetri 680ml | anticalcare, antivapore, idrorepellente, per box doccia, con scudo antisporco",
+    "url": "https://www.amazon.it/dp/B0CJCNWW13",
+    "image": "https://m.media-amazon.com/images/I/619r8-bbjTL._AC_UL320_.jpg",
+    "price": 3.32,
+    "old_price": 4.88,
+    "discount_percent": 32,
+    "currency": "EUR",
+    "category": "offerte casa",
+    "updated_at": "2026-08-08T16:49:04.706321+00:00"
+  },
+  {
+    "asin": "B0CQD17BHM",
+    "title": "Douceur d'Intérieur, 3 strofinacci (50 x 70 cm) Bayado, lino, microfibra",
+    "url": "https://www.amazon.it/dp/B0CQD17BHM",
+    "image": "https://m.media-amazon.com/images/I/8148LA64USL._AC_UL320_.jpg",
+    "price": 5.99,
+    "old_price": 8.08,
+    "discount_percent": 26,
+    "currency": "EUR",
+    "category": "offerte casa",
+    "updated_at": "2026-08-08T16:49:04.710502+00:00"
+  }
+]
