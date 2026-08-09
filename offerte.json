@@ -1,14 +1,26 @@
 [
   {
-    "asin": "B09GYCC1N7",
-    "title": "INIU Caricatore Wireless per iPhone, 15W Stazione di Ricarica Wireless | con Luce Adattiv Supporto Telefono, Wireless Charger da Vaggio per iPhone 17 16 15 Pro Max Samsung S25 S24 Google Pixel etc",
-    "url": "https://www.amazon.it/dp/B09GYCC1N7",
-    "image": "https://m.media-amazon.com/images/I/712m-iqcWVL._AC_UL320_.jpg",
-    "price": 13.93,
-    "old_price": 16.39,
-    "discount_percent": 15,
+    "asin": "B0CJCNBQ95",
+    "title": "Quasar - Cucina Superfici Delicate 680ml | senza aloni, sgrassante, protettivo, anche per piani a induzione, laminati, marmi e quarzi, con scudp antisporco",
+    "url": "https://www.amazon.it/dp/B0CJCNBQ95",
+    "image": "https://m.media-amazon.com/images/I/51Cpm6Z7nCL._AC_UL320_.jpg",
+    "price": 2.72,
+    "old_price": 4.0,
+    "discount_percent": 32,
     "currency": "EUR",
-    "category": "offerte elettronica",
-    "updated_at": "2026-08-09T20:03:13.340249+00:00"
+    "category": "offerte casa",
+    "updated_at": "2026-08-09T22:04:00.826084+00:00"
+  },
+  {
+    "asin": "B0CQD17BHM",
+    "title": "Douceur d'Intérieur, 3 strofinacci (50 x 70 cm) Bayado, lino, microfibra",
+    "url": "https://www.amazon.it/dp/B0CQD17BHM",
+    "image": "https://m.media-amazon.com/images/I/8148LA64USL._AC_UL320_.jpg",
+    "price": 4.91,
+    "old_price": 6.62,
+    "discount_percent": 26,
+    "currency": "EUR",
+    "category": "offerte casa",
+    "updated_at": "2026-08-09T22:04:00.827995+00:00"
   }
 ]
