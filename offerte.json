@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "asin": "B08GQ7NJDM",
+    "title": "douceur d'intérieur, Dispenser Sapone (Diametro 7 x 18 cm) Marmo, Ceramica Stampata",
+    "url": "https://www.amazon.it/dp/B08GQ7NJDM",
+    "image": "https://m.media-amazon.com/images/I/61XmReuuq7L._AC_UL320_.jpg",
+    "price": 4.91,
+    "old_price": 7.37,
+    "discount_percent": 33,
+    "currency": "EUR",
+    "category": "offerte casa",
+    "updated_at": "2026-08-22T15:48:49.625510+00:00"
+  },
+  {
+    "asin": "B0CJCNBQ95",
+    "title": "Quasar - Cucina Superfici Delicate 680ml | senza aloni, sgrassante, protettivo, anche per piani a induzione, laminati, marmi e quarzi, con scudp antisporco",
+    "url": "https://www.amazon.it/dp/B0CJCNBQ95",
+    "image": "https://m.media-amazon.com/images/I/5115pz4fOXL._AC_UL320_.jpg",
+    "price": 2.72,
+    "old_price": 4.0,
+    "discount_percent": 32,
+    "currency": "EUR",
+    "category": "offerte casa",
+    "updated_at": "2026-08-22T15:48:49.622998+00:00"
+  }
+]
